@@ -12,3 +12,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/TODO-React/
+
+![image](https://user-images.githubusercontent.com/95743795/160926867-7084cdc1-d25f-48f8-a89c-8af82cae4e31.png)
