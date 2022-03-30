@@ -1,2 +1,2 @@
 # Prosta aplikacja TODO listy z wykorzystaniem Reacta:
-https://github.com/MacieyTM/TODO-React
+https://macieytm.github.io/TODO-React/
