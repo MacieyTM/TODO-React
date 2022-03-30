@@ -6,8 +6,8 @@ Jeżeli masz zainstalowanego node.js, to możesz otworzyć projekt w trybie edyc
 ```
 npx create-react-app my-app
 ```
-2. Skopiuj pobrane pliki do folderu 'my-app' podmieniając ich zawartość.
-3. Będąc w folderze 'my-app' użyj w konsoli polecenia:
+2. Skopiuj pobrane pliki do folderu 'my-app' i podmień ich zawartość.
+3. Będąc w folderze 'my-app', użyj w konsoli polecenia:
 ```
 npm start
 ```
